@@ -1,0 +1,9 @@
+.idea
+.venv
+.vscode
+.env
+__pycache__
+.codex
+.claude
+.cursor
+.junie
